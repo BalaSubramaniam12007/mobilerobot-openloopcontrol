@@ -80,19 +80,6 @@ if __name__ == '__main__':
     ep_robot.close()
 
 ```
-
-## MobileRobot Movement Image:
-
-![robo](./img/output1.jpeg)
-![robo](./img/output2.jpeg)
-![robo](./img/output3.jpeg)
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
